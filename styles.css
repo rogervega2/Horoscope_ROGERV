@@ -1,0 +1,24 @@
+h1{
+    color: palevioletred;
+
+    font-family: "Comic Sans MS", serif;
+}
+
+h3{
+    color: palevioletred;
+    font-size: smaller;
+    font-family: "Comic Sans MS", serif;
+}
+body{
+    background-color: paleturquoise;
+}
+div{
+    font-size: large;
+    color:palevioletred;
+    font-family: "Comic Sans MS", serif;
+}
+
+.img {
+    width:304px;
+    height:228px;
+}
