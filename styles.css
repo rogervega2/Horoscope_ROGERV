@@ -1,6 +1,7 @@
 h1{
     color: palevioletred;
-    border: 1px dashed black
+    border: 1px dashed black;
+    width: 200px;
     font-family: "Comic Sans MS", serif;
 }
 
